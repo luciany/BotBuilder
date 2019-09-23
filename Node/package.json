@@ -12,7 +12,7 @@
     "jsonwebtoken": "^7.0.1",
     "node-uuid": "^1.4.7",
     "request": "^2.69.0",
-    "restify": "^4.0.4",
+    "restify": "^8.1.0",
     "rsa-pem-from-mod-exp": "^0.8.4",
     "sprintf-js": "^1.0.3"
   },
